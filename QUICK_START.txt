@@ -1,0 +1,54 @@
+🚌 AIT BUS TRACKING SYSTEM - QUICK START 🚌
+
+═══════════════════════════════════════════════════════════
+
+📋 SUPER SIMPLE SETUP:
+
+1️⃣ DOUBLE-CLICK "start.bat" 
+   (That's it! Everything else is automatic)
+
+2️⃣ WAIT for the server to start 
+   (You'll see green messages)
+
+3️⃣ OPEN http://localhost:5000 in your browser
+   (Chrome, Firefox, Safari, or Edge)
+
+═══════════════════════════════════════════════════════════
+
+🎯 HOW TO USE:
+
+👨‍🎓 FOR STUDENTS:
+• Open the website → Click "Student View" → See bus locations on map
+
+🚌 FOR DRIVERS:
+• Open the website → Click "Driver Portal" → Register/Login → Start Tracking
+
+═══════════════════════════════════════════════════════════
+
+🔧 IF SOMETHING GOES WRONG:
+
+✅ Check you have Node.js installed (https://nodejs.org)
+✅ Right-click start.bat → "Run as Administrator"
+✅ Check your internet connection
+✅ Allow location access in your browser
+✅ Run "npm run health" to diagnose issues
+
+═══════════════════════════════════════════════════════════
+
+💡 ALTERNATIVE METHODS:
+
+Method 1: Double-click start.bat (EASIEST)
+Method 2: Open terminal → type "npm run dev"
+Method 3: Run "npm run restart" if something is stuck
+
+═══════════════════════════════════════════════════════════
+
+🆘 NEED HELP?
+
+• Check README.md for detailed instructions
+• Run "npm run health" to check your setup
+• Make sure port 5000 isn't being used by another app
+
+═══════════════════════════════════════════════════════════
+
+That's it! The system should work perfectly now! 🎉
